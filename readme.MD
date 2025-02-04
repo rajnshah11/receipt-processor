@@ -66,7 +66,7 @@ receipt-processor/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/rajnshah11/receipt-processor
+git clone https://github.com/rajnshah11/receipt-processor.git
 cd receipt-processor
 ```
 
