@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file for your Receipt Processor project:
-
----
 
 # **Receipt Processor**
 
